@@ -2,7 +2,7 @@ This is a Dog Picture finding React.js App
 
 Here is a link to the deployed app on netlify:
 
-
+https://dog-app-react-sarthak.netlify.app/
 
 This app allows you to:
 
